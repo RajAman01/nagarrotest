@@ -1,0 +1,33 @@
+body{
+    background-color: blue ;
+}
+.header{
+    
+    height: 40px;
+    color: rgb(251, 253, 251);
+    background-color: chartreuse;
+    text-align: justify;
+}
+.content{
+    
+    min-height: auto;
+}
+.main-content{
+    background-color: darkgray;
+    border: darkgreen;
+}
+.footer{
+    height: 40px;
+    color: white;
+    margin-top: 12px;
+    text-align: justify;
+}
+.col-5{
+    margin-top: 40;
+}
+.line{
+    background-color:rgb(173, 14, 14);
+    height:10px;
+    position:absolute;
+  }
+ 
